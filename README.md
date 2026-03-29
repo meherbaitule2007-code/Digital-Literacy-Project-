@@ -1,46 +1,99 @@
-# Digital-Literacy-Project-
-📘 Digital Literacy Portfolio
-Name:- Meher Lalitkumar Baitule.      Course:-CSE0001 Digital Literacy 
-University:- VIT BHOPAL UNIVERSITY 
+# 📘 Digital Literacy Portfolio
 
-📖 About the Project
-This repository contains my Digital Literacy Project, where I completed various tasks to understand the use of digital tools and online platforms. The project focuses on practical learning such as creating digital content, using coding platforms, and understanding cyber safety.
+### 👤 Name
 
-📂 Folder Details
-The repository is divided into the following sections:
+**Meher Lalitkumar Baitule**
 
-task-1-presentation
-Contains infographic related to digital literacy.
+### 🎓 Course
 
-task-2-portfolio
-Includes screenshots of online profiles.
+**CSE0001 – Digital Literacy**
 
-task-3-platforms
-Contains coding platform and Google Form work.
+### 🏫 University
 
-task4-email-etiquette
-Includes formal emails and social media guidelines.
+**VIT Bhopal University**
 
-task-5-cybercrime
-Contains case study and prevention tips.
+---
 
-report
-Final project report in PDF format.
+## 📖 About the Project
 
-🧠 Skills Learned
-Use of digital tools
-Creating online profiles
-Basic coding platform usage
-Writing professional emails
-Awareness about cybercrime
+This repository showcases my **Digital Literacy Project**, where I completed a series of practical tasks to develop essential digital skills.
 
-🔗 Important Links
+The project focuses on:
 
-GitHub Profile : https://github.com/meherbaitule2007-code
-Linkdin : https://www.linkedin.com/in/meher-baitule-31b606397?utm_source=share_via&utm_content=profile&utm_medium=member_android
-HackerRank :https://www.hackerrank.com/profile/meherbaitule2007
-Google Form :https://docs.google.com/forms/d/e/1FAIpQLSfkhHg7RVKKaXSOZWiGDnfpMrfIOB3BZmPhdjK6OVgNF-4IDA/viewform?usp=publish-editor
+* Understanding digital tools
+* Creating online content
+* Exploring coding platforms
+* Learning cyber safety and responsible online behavior
 
-📌 Summary
+---
 
-This project helped me understand how digital skills are important in student life and how they can be used in academics and future career development
+## 📂 Project Structure
+
+The repository is organized into the following sections:
+
+### 📊 task-1-presentation
+
+Contains an infographic related to **digital literacy concepts**.
+
+### 🖼️ task-2-portfolio
+
+Includes screenshots of my **online profiles**.
+
+### 💻 task-3-platforms
+
+Covers work on:
+
+* Coding platforms
+* Google Forms
+
+### 📧 task-4-email-etiquette
+
+Includes:
+
+* Formal email samples
+* Social media usage guidelines
+
+### 🔐 task-5-cybercrime
+
+Contains:
+
+* Case study on cybercrime
+* Prevention tips and awareness
+
+### 📑 report
+
+Final **project report (PDF format)** summarizing all tasks.
+
+---
+
+## 🧠 Skills Learned
+
+Through this project, I gained the following skills:
+
+* Effective use of digital tools
+* Creating and managing online profiles
+* Basic understanding of coding platforms
+* Writing professional emails
+* Awareness of cybercrime and online safety
+
+---
+
+## 🔗 Important Links
+
+* 💻 **GitHub Profile**
+  [https://github.com/meherbaitule2007-code](https://github.com/meherbaitule2007-code)
+
+* 🔗 **LinkedIn Profile**
+  [https://www.linkedin.com/in/meher-baitule-31b606397](https://www.linkedin.com/in/meher-baitule-31b606397)
+
+* 🧩 **HackerRank Profile**
+  [https://www.hackerrank.com/profile/meherbaitule2007](https://www.hackerrank.com/profile/meherbaitule2007)
+
+* 📋 **Google Form**
+  [https://docs.google.com/forms/d/e/1FAIpQLSfkhHg7RVKKaXSOZWiGDnfpMrfIOB3BZmPhdjK6OVgNF-4IDA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfkhHg7RVKKaXSOZWiGDnfpMrfIOB3BZmPhdjK6OVgNF-4IDA/viewform)
+
+---
+
+## 📌 Summary
+
+This project helped me understand the importance of **digital literacy in student life**. It enhanced my ability to use digital tools effectively and prepared me for **academic and future career development**.
